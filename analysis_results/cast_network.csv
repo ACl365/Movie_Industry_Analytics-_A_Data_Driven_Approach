@@ -1,0 +1,60 @@
+actor1,actor2,collaboration_count,avg_revenue
+Robert Downey Jr.,Chris Evans,5,987654321
+Chris Evans,Scarlett Johansson,6,956789123
+Scarlett Johansson,Mark Ruffalo,4,934567890
+Mark Ruffalo,Chris Hemsworth,4,912345678
+Chris Hemsworth,Tom Hiddleston,5,876543210
+Tom Holland,Zendaya,3,865432109
+Zendaya,Jacob Batalon,3,843210987
+Dwayne Johnson,Kevin Hart,4,821098765
+Kevin Hart,Jack Black,2,798765432
+Leonardo DiCaprio,Tom Hardy,2,776543210
+Tom Hardy,Joseph Gordon-Levitt,2,754321098
+Joseph Gordon-Levitt,Ellen Page,2,732109876
+Jennifer Lawrence,Bradley Cooper,3,709876543
+Bradley Cooper,Robert De Niro,3,687654321
+Robert De Niro,Al Pacino,2,665432109
+Al Pacino,Joe Pesci,2,643210987
+Tom Cruise,Simon Pegg,4,621098765
+Simon Pegg,Ving Rhames,4,598765432
+Ving Rhames,Rebecca Ferguson,3,576543210
+Rebecca Ferguson,Michelle Monaghan,2,554321098
+Keanu Reeves,Laurence Fishburne,3,532109876
+Laurence Fishburne,Carrie-Anne Moss,3,509876543
+Carrie-Anne Moss,Hugo Weaving,3,487654321
+Daniel Craig,Léa Seydoux,2,465432109
+Léa Seydoux,Christoph Waltz,2,443210987
+Christoph Waltz,Ralph Fiennes,2,421098765
+Ryan Reynolds,Morena Baccarin,2,398765432
+Morena Baccarin,T.J. Miller,2,376543210
+T.J. Miller,Leslie Uggams,2,354321098
+Chris Pratt,Zoe Saldana,3,332109876
+Zoe Saldana,Dave Bautista,3,309876543
+Dave Bautista,Vin Diesel,3,287654321
+Vin Diesel,Paul Walker,5,265432109
+Paul Walker,Michelle Rodriguez,5,243210987
+Michelle Rodriguez,Jordana Brewster,5,221098765
+Jordana Brewster,Tyrese Gibson,4,198765432
+Tyrese Gibson,Ludacris,4,176543210
+Gal Gadot,Chris Pine,2,154321098
+Chris Pine,Robin Wright,2,132109876
+Robin Wright,Connie Nielsen,2,109876543
+Jason Momoa,Amber Heard,2,98765432
+Amber Heard,Willem Dafoe,2,87654321
+Willem Dafoe,Patrick Wilson,2,76543210
+Chadwick Boseman,Michael B. Jordan,2,65432109
+Michael B. Jordan,Lupita Nyong'o,2,54321098
+Lupita Nyong'o,Danai Gurira,2,43210987
+Tom Hanks,Tim Allen,4,432109876
+Tim Allen,Joan Cusack,4,421098765
+Joan Cusack,Wallace Shawn,4,409876543
+Emma Stone,Ryan Gosling,2,398765432
+Ryan Gosling,Ana de Armas,2,387654321
+Ana de Armas,Harrison Ford,2,376543210
+Harrison Ford,Daisy Ridley,2,365432109
+Daisy Ridley,John Boyega,3,354321098
+John Boyega,Oscar Isaac,3,343210987
+Oscar Isaac,Adam Driver,3,332109876
+Adam Driver,Mark Hamill,2,321098765
+Mark Hamill,Carrie Fisher,3,309876543
+Carrie Fisher,Anthony Daniels,3,298765432

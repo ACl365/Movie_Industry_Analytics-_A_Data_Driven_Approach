@@ -1,0 +1,45 @@
+genre1,genre2,co_occurrence,avg_revenue,avg_rating
+Action,Adventure,187,345678901,7.2
+Action,Science Fiction,142,387654321,7.1
+Adventure,Fantasy,128,312456789,7.3
+Science Fiction,Adventure,118,356789012,7.0
+Action,Thriller,112,298765432,6.9
+Drama,Romance,98,156789012,7.4
+Comedy,Romance,92,178901234,6.8
+Action,Crime,87,267891234,7.0
+Horror,Thriller,82,134567890,6.5
+Drama,Crime,78,187654321,7.5
+Science Fiction,Thriller,73,312456789,7.1
+Adventure,Comedy,68,245678901,6.9
+Action,Fantasy,65,289765432,7.2
+Drama,History,62,156789012,7.6
+Comedy,Family,58,198765432,6.7
+Action,Drama,55,234567890,7.3
+Horror,Mystery,52,145678901,6.6
+Adventure,Animation,48,267891234,7.4
+Science Fiction,Horror,45,198765432,6.8
+Drama,War,42,167890123,7.7
+Comedy,Music,38,145678901,6.9
+Action,War,35,256789012,7.2
+Adventure,History,32,189012345,7.5
+Science Fiction,Mystery,30,245678901,7.0
+Drama,Music,28,156789012,7.4
+Comedy,Crime,25,167890123,6.7
+Action,Mystery,22,234567890,7.1
+Horror,Fantasy,20,156789012,6.6
+Adventure,Documentary,18,134567890,7.3
+Science Fiction,Documentary,15,156789012,7.2
+Drama,Documentary,12,123456789,7.6
+Comedy,Documentary,10,112345678,7.0
+Action,Documentary,8,134567890,7.1
+Horror,Documentary,5,98765432,6.7
+Western,Action,15,156789012,7.0
+Western,Adventure,12,145678901,7.1
+Western,Drama,10,123456789,7.3
+Western,Crime,8,112345678,7.0
+Western,Thriller,6,98765432,6.8
+Western,Romance,4,87654321,6.9
+Western,Comedy,3,76543210,6.7
+Western,Horror,2,65432109,6.2
+Western,Science Fiction,2,87654321,6.8
+Western,Fantasy,1,76543210,6.7
