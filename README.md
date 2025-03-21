@@ -4,7 +4,7 @@ A comprehensive data pipeline and analysis framework for studying patterns in th
 
 ## Project Overview
 
-This project leverages data from The Movie Database (TMDB) API to collect, process, and analyse information on 10,000 movies, providing insights into genre trends, studio performance, budget efficiency, and cast collaboration patterns.
+This project leverages data from The Movie Database (TMDB) API to collect, process, and analyse information on up to 10,000 movies, providing insights into genre trends, studio performance, budget efficiency, and cast collaboration patterns.
 
 ## Directory Structure
 
