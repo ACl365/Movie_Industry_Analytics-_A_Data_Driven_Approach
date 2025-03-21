@@ -12,7 +12,7 @@ This project leverages data from The Movie Database (TMDB) API to collect, proce
 movie_industry_analytics/
 ├── .env                       # Environment file with TMDB API key
 ├── movie-etl-pipeline.py      # Basic ETL pipeline
-├── enhanced-etl-pipeline.py   # Optimized ETL pipeline for 10,000 movies
+├── enhanced-etl-pipeline.py   # Optimized ETL pipeline for up to 10,000 movies
 ├── movie_database_large.db    # SQLite database (created when running the ETL pipeline)
 ├── movie_ids_cache.json       # Cache of movie IDs (created when running the ETL pipeline)
 ├── movie_etl_large.log        # Log file (created when running the ETL pipeline)
@@ -32,7 +32,7 @@ movie_industry_analytics/
 │   └── budget-efficiency.jsx      # Budget efficiency scatter plot by genre
 │
 └── documentation/             # Project documentation
-    ├── portfolio-document.md  # PhD-level portfolio document
+    ├── portfolio-document.md  # Portfolio document
     └── project-summary.md     # Executive summary of findings
 ```
 
